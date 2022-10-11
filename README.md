@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://www.mathieu-jacques.com)
 
-- 💬 Ask me anythin **data science related, I'll gladly help you**
+- 💬 Ask me anything **data science related, I'll gladly help you**
 
 - 📫 How to reach me **email me or connect on LinkedIn**
 
