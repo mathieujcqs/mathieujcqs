@@ -8,7 +8,7 @@
 
 - 💬 Ask me anything **data science related, I'll gladly help you**
 
-- 📫 How to reach me **email me or connect on LinkedIn**
+- 📫 How to reach me: **email me or connect on LinkedIn**
 
 - ⚡ Fun fact **I enjoy origami and embroidery**
 
