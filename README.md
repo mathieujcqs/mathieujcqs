@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available [here](https://www.mathieu-jacques.com)
 
-- 💬 Ask me anything **data science related, I'll gladly help you**
+- 💬 Ask me anything **Data Science related, I'll gladly help you**
 
 - 📫 How to reach me: **email me or connect on LinkedIn**
 
-- ⚡ Fun fact **I enjoy origami and embroidery**
+- ⚡ Fun fact: **I enjoy origami and embroidery**
 
 
 
